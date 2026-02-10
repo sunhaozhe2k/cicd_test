@@ -1,5 +1,7 @@
 # cicd_test
 
+[![C Build CI](https://github.com/sunhaozhe2k/cicd_test/actions/workflows/c-build.yml/badge.svg)](https://github.com/sunhaozhe2k/cicd_test/actions/workflows/c-build.yml)
+
 这是一个最小化的 GitHub CI/CD 示例仓库，用于编译并运行 `main.c`。
 
 ## 项目结构
